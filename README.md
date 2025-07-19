@@ -20,9 +20,9 @@ A smart expense-splitting system for friend groups who suck at keeping track of 
 
 | Layer           | Tools                     |
 |----------------|----------------------------|
-| Core Logic      | Python / JavaScript        |
+| Core Logic      |          JavaScript        |
 | Frontend (opt)  | React / Flask / CLI        |
-| Backend (opt)   | Firebase / SQLite          |
+| Backend (opt)   |     null                    |
 | Extras          | Chart.js, jsPDF, Web Share |
 
 ---
