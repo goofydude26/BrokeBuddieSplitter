@@ -1,5 +1,5 @@
 # BrokeBuddieSplitter
-An app where your inexistent money is being split with your imaginary friends for Netflix.
+An app where your non-existent money is being split with your imaginary friends for Netflix and snacks.
 
 
 A smart expense-splitting system for friend groups who suck at keeping track of who paid for what. No more awkward “you owe me bro” moments — this app calculates, simplifies, and settles debts like a financial therapist.
